@@ -2,7 +2,7 @@
 A collection of scripts used for a Unity clone of Flappy Bird. I wrote this way
 before I knew how to code properly, so there's a lot to be desired. No assets
 included, as I don't own the rights to most of them. I recommend using the CC0
-assets from kenney.nl to build this game - that's what I used.e
+assets from kenney.nl to build this game - that's what I used.
 
 Any comments beginning in `N.B. from the future:` were made by me two years after
 the fact, just before I uploaded this repository.
